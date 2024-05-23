@@ -1,0 +1,28 @@
+.blue-background {
+    background-color: 
+    #29467D !important;
+   color: white;
+}
+.tabla{
+    margin-right:  30%;
+    margin-left:  30%;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+
+}
+.example-button-row{
+
+margin-bottom: 50px;
+margin-left: 8%;
+
+
+}
+.nombre-header {
+    font-size: 20px;
+    color:  #29467D;
+}
+
+.total-row {
+    background-color: #f2f2f2; /* Cambia el color de fondo según tu preferencia */
+    font-weight: bold; /* Para resaltar los totales */
+  }
